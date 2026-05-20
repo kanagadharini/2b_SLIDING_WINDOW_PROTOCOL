@@ -46,7 +46,23 @@ while i < n:
 s.close()
 ```
 ## OUPUT
+server
+
+
+
+
+
+
+
 <img width="337" height="147" alt="image" src="https://github.com/user-attachments/assets/0c4dc7bb-cce8-4dc8-89a4-256ae10d5b50" />
+client
+
+
+
+
+
+
+
 <img width="258" height="186" alt="image" src="https://github.com/user-attachments/assets/9aa00afe-4e7f-4981-8920-e7a78f9c0aee" />
 
 
